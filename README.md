@@ -2,8 +2,7 @@
 Extract colors from a pixelart (or any image) and create files in black and white to feed a laser cut machine SW
 
 # Example
-go
-Taken this input image
+Taken this input image:
 
 ![](test_img/test_extract.png)
 
